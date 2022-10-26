@@ -17,4 +17,3 @@ To run tests locally use:
 opa test --bundle ./ --verbose --format pretty
 ```
 
-
